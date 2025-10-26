@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "RTX 5060",
+      "price": 1999,
+      "image": "prod 1"
+    },
+    {
+      "id": 2,
+      "name": "Sabonete Francys",
+      "price": -10,
+      "image": "prod 2"
+    },
+    {
+      "id": 3,
+      "name": "100g de picanha",
+      "price": 80,
+      "image": "prod 3"
+    },
+    {
+      "id": 4,
+      "name": "Trabuco usado por Lampião",
+      "price": 10000,
+      "image": "prod 4"
+    }
+  ]
+}
